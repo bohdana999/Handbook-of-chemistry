@@ -1,0 +1,90 @@
+[
+   {
+      "title":"Якісне виявлення деяких іонів",
+      "pathToPicture":".\\Reaction\\ions.png"
+   },
+   {
+      "title":"Якісні реакції на органічні сполуки №1",
+      "pathToPicture":".\\Reaction\\qualitativeReactions.png"
+   },
+   {
+      "title":"Якісні реакції на органічні сполуки №2",
+      "pathToPicture":".\\Reaction\\qualitativeReactions2.png"
+   },
+   {
+      "title":"Якісні реакції на органічні сполуки №3",
+      "pathToPicture":".\\Reaction\\qualitativeReactions3.png"
+   },
+   {
+      "title":"Способи добування деяких неорганічних речовин",
+      "pathToPicture":".\\Reaction\\labAndIndust.png"
+   },
+   {
+      "title":"Реакції термічного розкладу деяких солей",
+      "pathToPicture":".\\Reaction\\decompOfSalts.png"
+   },
+   {
+      "title":"Іменні реакції в органічній хімії",
+      "pathToPicture":".\\Reaction\\nominalReaction.png"
+   },
+   {
+      "title":"Типи реакцій в органічній хімії",
+      "pathToPicture":".\\Reaction\\typeOrganicReaction.png"
+   },
+   {
+      "title":"Хімічні властивості алкенів",
+      "pathToPicture":".\\Reaction\\alkenes.png"
+   },
+   {
+      "title":"Добування алкенів",
+      "pathToPicture":".\\Reaction\\extractionAlkenes.png"
+   },
+   {
+      "title":"Хімічні властивості спиртів",
+      "pathToPicture":".\\Reaction\\chemPropertAlcohols.png"
+   },
+   {
+      "title":"Добування насичених одноатомних спиртів",
+      "pathToPicture":".\\Reaction\\monohydricAlcohols.png"
+   },
+   {
+      "title":"Хімічні властивості насичених монокарбонових кислот",
+      "pathToPicture":".\\Reaction\\monocarboxylicAcids.png"
+   },
+   {
+      "title":"Добування карбонових кислот",
+      "pathToPicture":".\\Reaction\\extractionCarboxylicAcids.png"
+   },
+   {
+      "title":"Хімічні властивості глюкози",
+      "pathToPicture":".\\Reaction\\glucose.png"
+   },
+   {
+      "title":"Добування глюкози",
+      "pathToPicture":".\\Reaction\\glucoseExtraction.png"
+   },
+   {
+      "title":"Хімічні властивості аліфатичних амінів",
+      "pathToPicture":".\\Reaction\\amines.png"
+   },
+  {
+    "title": "Добування аліфатичних амінів",
+    "pathToPicture": ".\\Reaction\\extractionAmines.png"
+  },
+   {
+      "title":"Хімічні властивості аніліну",
+      "pathToPicture":".\\Reaction\\Aniline.png"
+   },
+   {
+      "title":"Добування аніліну та ароматичних амінів",
+      "pathToPicture":".\\Reaction\\anilineExtraction.png"
+   },
+   {
+      "title":"Хімічні властивості амінокислот",
+      "pathToPicture":".\\Reaction\\aminoAcids.png"
+   },
+   {
+      "title":"Добування амінокислот",
+      "pathToPicture":".\\Reaction\\extractionAminoAcids.png"
+   }
+]

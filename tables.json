@@ -1,0 +1,77 @@
+[
+   {
+      "title":"Періодична система хімічних елементів",
+      "pathToPicture":".\\Images\\mendeleev.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Електронегативність елементів",
+      "pathToPicture":".\\Images\\elektronegativity.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Таблиця розчинності",
+      "pathToPicture":".\\Images\\solubility.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Ряд електроактивності металів",
+      "pathToPicture":".\\Images\\elektoactivity.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Валентність",
+      "pathToPicture":".\\Images\\valence.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Типи кристалічних ґраток",
+      "pathToPicture":".\\Images\\crystalLatt.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Кислотні оксиди елементів",
+      "pathToPicture":".\\Images\\acidsOxides.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Оксигеновмісні кислоти",
+      "pathToPicture":".\\Images\\acidsWithO.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Безоксигенові кислоти",
+      "pathToPicture":".\\Images\\acidsWithoutO.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Числові префікси у кристалогідратів",
+      "pathToPicture":".\\Images\\numPrefixes.png",
+      "sizeMode":4
+   },
+   {
+      "title":"Склад і назви кристалогідратів",
+      "pathToPicture":".\\Images\\crystalhydrat.png",
+      "sizeMode":4
+   },
+  {
+    "title": "Взаємодія оксигено- та нітрогеновмісних сполук з реагентами",
+    "pathToPicture": ".\\Images\\interactionOandN.png",
+    "sizeMode": 4
+  },
+   {
+      "title":"Функціональні групи",
+      "pathToPicture":".\\Images\\functionalGroup.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Використання деяких неорганічних сполук",
+      "pathToPicture":".\\Images\\useInorganic.png",
+      "sizeMode":1
+   },
+   {
+      "title":"Використання деяких органічних сполук",
+      "pathToPicture":".\\Images\\useOrganic.png",
+      "sizeMode":1
+   }
+]
